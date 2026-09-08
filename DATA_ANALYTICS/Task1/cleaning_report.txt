@@ -1,0 +1,93 @@
+======================================================================
+STEP 1: INITIAL DATA INSPECTION
+======================================================================
+Shape (rows, columns): (635, 12)
+Columns: ['CustomerID', 'CustomerName', 'Age', 'Gender', 'City', 'ProductCategory', 'Price', 'Quantity', 'OrderDate', 'PaymentMode', 'Rating', 'SignupChannel']
+
+Data types before cleaning:
+CustomerID             str
+CustomerName           str
+Age                float64
+Gender                 str
+City                   str
+ProductCategory        str
+Price              float64
+Quantity           float64
+OrderDate              str
+PaymentMode            str
+Rating             float64
+SignupChannel          str
+
+======================================================================
+STEP 2: IDENTIFYING DATA QUALITY ISSUES
+======================================================================
+
+Missing values per column:
+CustomerID           0
+CustomerName         0
+Age                 65
+Gender              97
+City                50
+ProductCategory      0
+Price                0
+Quantity           103
+OrderDate            0
+PaymentMode          0
+Rating              89
+SignupChannel      102
+
+Fully duplicated rows: 25
+Duplicated CustomerID rows (post first occurrence): 35
+
+Inconsistent categorical entries found:
+  Gender unique values: ['F', 'Female', 'M', 'Male', 'female', 'male']
+  City unique values: ['Ahmedabad', 'Bengaluru', 'Chennai', 'Delhi', 'Hyderabad', 'Jaipur', 'Kolkata', 'Lucknow', 'Mumbai', 'Mumbai ', 'Pune', 'bangalore', 'delhi']
+  PaymentMode unique values: ['COD', 'Cash on Delivery', 'Credit Card', 'Debit Card', 'Net Banking', 'UPI', 'UPI ', 'credit card']
+  Rating unique values: [1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
+  OrderDate sample formats: ['11/05/2025', '27/12/2025', '07/08/2025', '16-11-2025', '2025-10-14']
+
+======================================================================
+STEP 3: CLEANING THE DATASET
+======================================================================
+
+Rows dropped due to unparseable OrderDate: 0
+Exact duplicate rows removed: 35
+Duplicate transactions (same customer/date/price/category) removed: 0
+
+Data types after cleaning:
+CustomerID                    str
+CustomerName                  str
+Age                         int64
+Gender                        str
+City                          str
+ProductCategory               str
+Price                     float64
+Quantity                    int64
+OrderDate          datetime64[us]
+PaymentMode                   str
+Rating                      int64
+SignupChannel                 str
+TotalAmount               float64
+
+======================================================================
+STEP 4: FINAL CLEANED DATA SUMMARY
+======================================================================
+Original shape: (635, 12)
+Cleaned shape:  (600, 13)
+Remaining missing values:
+CustomerID         0
+CustomerName       0
+Age                0
+Gender             0
+City               0
+ProductCategory    0
+Price              0
+Quantity           0
+OrderDate          0
+PaymentMode        0
+Rating             0
+SignupChannel      0
+TotalAmount        0
+Remaining duplicate rows: 0
+
+Cleaned dataset saved to: dataset/cleaned_customer_sales.csv
