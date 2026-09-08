@@ -1,0 +1,601 @@
+CustomerID,CustomerName,Age,Gender,City,ProductCategory,Price,Quantity,OrderDate,PaymentMode,Rating,SignupChannel,TotalAmount
+CUST1081,Ananya Gupta,48,Male,Lucknow,Sports,16298.44,1,2025-06-18,UPI,5,Unknown,16298.44
+CUST1560,Priya Gupta,30,Male,Mumbai,Sports,22463.95,1,2025-09-02,UPI,5,Website,22463.95
+CUST1474,Ishaan Verma,44,Male,Mumbai,Toys,7326.2,1,2025-02-03,Cash On Delivery,1,App,7326.2
+CUST1106,Ritika Malhotra,64,Male,Lucknow,Books,8888.41,2,2025-09-17,UPI,4,App,17776.82
+CUST1212,Meera Joshi,53,Female,Delhi,Sports,2279.5,2,2025-01-06,Debit Card,2,Referral,4559.0
+CUST1479,Arjun Joshi,42,Unknown,Kolkata,Clothing,7426.89,1,2025-03-04,Net Banking,5,App,7426.89
+CUST1483,Vivaan Mehta,40,Unknown,Bangalore,Home & Kitchen,430.74,1,2025-12-20,Net Banking,2,Referral,430.74
+CUST1145,Aditya Singh,59,Male,Kolkata,Electronics,15186.61,3,2025-08-19,Credit Card,4,Website,45559.83
+CUST1351,Anjali Patel,64,Male,Ahmedabad,Grocery,24588.82,1,2025-06-04,Debit Card,4,Website,24588.82
+CUST1431,Nikhil Chopra,40,Male,Bengaluru,Toys,17709.66,2,2025-05-31,Cash On Delivery,4,App,35419.32
+CUST1113,Riya Malhotra,29,Female,Jaipur,Home & Kitchen,12581.52,1,2025-12-09,Debit Card,4,Unknown,12581.52
+CUST1430,Ananya Kulkarni,24,Female,Hyderabad,Beauty,24544.64,1,2025-11-27,Cash On Delivery,4,Website,24544.64
+CUST1577,Rahul Singh,19,Unknown,Chennai,Toys,24859.17,1,2025-11-03,Credit Card,4,App,24859.17
+CUST1146,Sanjay Reddy,51,Female,Pune,Books,6352.85,1,2025-01-14,UPI,4,App,6352.85
+CUST1131,Nikhil Desai,25,Male,Delhi,Grocery,6928.86,2,2025-03-17,Debit Card,4,Website,13857.72
+CUST1102,Ananya Rao,43,Male,Mumbai,Beauty,9615.47,2,2025-09-29,Cash On Delivery,4,App,19230.94
+CUST1390,Karan Mehta,43,Female,Bangalore,Electronics,4144.34,3,2025-03-01,UPI,4,App,12433.02
+CUST1372,Aman Desai,50,Female,Pune,Electronics,16617.56,1,2025-11-11,UPI,4,App,16617.56
+CUST1585,Nikhil Iyer,22,Unknown,Ahmedabad,Sports,1206.55,1,2025-01-17,Credit Card,4,Website,1206.55
+CUST1082,Nikhil Pillai,52,Male,Mumbai,Home & Kitchen,15834.35,1,2025-04-27,Debit Card,4,Website,15834.35
+CUST1011,Pooja Sharma,61,Female,Jaipur,Books,19249.68,1,2025-02-27,UPI,3,Website,19249.68
+CUST1170,Aman Kulkarni,39,Male,Bangalore,Books,15310.4,1,2025-05-07,Net Banking,4,Referral,15310.4
+CUST1049,Sanjay Sharma,23,Female,Unknown,Toys,4665.97,1,2025-07-14,Cash On Delivery,4,Referral,4665.97
+CUST1407,Ishaan Malhotra,49,Unknown,Bangalore,Beauty,19665.52,1,2025-05-09,Credit Card,4,Website,19665.52
+CUST1461,Sanjay Reddy,45,Male,Pune,Toys,13624.51,1,2025-01-12,Cash On Delivery,3,Referral,13624.51
+CUST1343,Dev Bose,48,Unknown,Delhi,Grocery,18302.79,1,2025-02-23,Credit Card,4,Website,18302.79
+CUST1348,Yash Nair,36,Female,Unknown,Electronics,17311.28,1,2025-04-15,Credit Card,5,Website,17311.28
+CUST1557,Priya Nair,59,Female,Mumbai,Home & Kitchen,3589.38,1,2025-05-03,Debit Card,4,Unknown,3589.38
+CUST1537,Diya Pillai,43,Female,Mumbai,Home & Kitchen,10741.35,1,2025-12-14,Credit Card,2,Unknown,10741.35
+CUST1499,Anjali Bose,26,Male,Kolkata,Clothing,8247.86,3,2025-02-06,Cash On Delivery,4,App,24743.58
+CUST1046,Arjun Kulkarni,47,Male,Hyderabad,Sports,9828.5,1,2025-10-27,Credit Card,4,Website,9828.5
+CUST1448,Vikram Verma,38,Male,Delhi,Beauty,12634.68,1,2025-03-20,UPI,4,App,12634.68
+CUST1556,Aryan Mehta,65,Male,Bangalore,Beauty,22216.25,1,2025-07-16,Cash On Delivery,1,Referral,22216.25
+CUST1098,Ritika Reddy,26,Male,Delhi,Grocery,2881.67,1,2025-01-14,Credit Card,5,App,2881.67
+CUST1181,Rahul Joshi,62,Male,Bangalore,Clothing,11715.07,1,2025-07-27,Net Banking,2,Unknown,11715.07
+CUST1234,Dev Chopra,53,Female,Ahmedabad,Sports,17164.71,2,2025-12-30,Cash On Delivery,3,Website,34329.42
+CUST1339,Yash Menon,56,Female,Bangalore,Beauty,17940.45,1,2025-02-19,Cash On Delivery,1,Referral,17940.45
+CUST1216,Sneha Rao,49,Male,Delhi,Sports,7007.65,1,2025-05-09,Credit Card,5,App,7007.65
+CUST1437,Meera Menon,63,Male,Hyderabad,Toys,23220.83,1,2025-02-10,Credit Card,5,App,23220.83
+CUST1465,Aarav Joshi,23,Female,Jaipur,Toys,17843.68,1,2025-04-05,Cash On Delivery,4,App,17843.68
+CUST1038,Nikhil Kapoor,53,Female,Kolkata,Sports,16981.35,1,2025-11-12,Net Banking,4,App,16981.35
+CUST1059,Sneha Singh,43,Male,Bangalore,Beauty,11910.52,2,2025-06-26,Credit Card,5,Unknown,23821.04
+CUST1128,Ishaan Menon,28,Male,Kolkata,Beauty,16957.62,1,2025-08-16,Net Banking,4,App,16957.62
+CUST1515,Anjali Sharma,36,Male,Delhi,Clothing,21308.41,1,2025-10-05,Net Banking,5,Referral,21308.41
+CUST1210,Aryan Kulkarni,39,Unknown,Mumbai,Grocery,19793.88,3,2025-02-10,Credit Card,1,Website,59381.64
+CUST1125,Nikhil Chopra,43,Female,Mumbai,Books,14039.21,3,2025-06-18,Debit Card,4,App,42117.63
+CUST1032,Tanya Nair,44,Female,Mumbai,Beauty,19592.3,2,2025-12-09,Cash On Delivery,5,App,39184.6
+CUST1284,Ishaan Sharma,43,Female,Unknown,Electronics,4674.73,1,2025-10-11,Debit Card,4,App,4674.73
+CUST1143,Aman Menon,63,Female,Mumbai,Toys,8885.94,1,2025-06-30,UPI,5,Unknown,8885.94
+CUST1433,Aman Kapoor,34,Male,Ahmedabad,Electronics,19431.56,2,2025-07-14,UPI,1,App,38863.12
+CUST1374,Aditya Rao,41,Male,Bangalore,Home & Kitchen,13019.45,1,2025-07-04,Cash On Delivery,4,Website,13019.45
+CUST1358,Diya Nair,52,Male,Bangalore,Clothing,5387.92,3,2025-04-20,UPI,2,App,16163.76
+CUST1132,Aryan Joshi,19,Male,Kolkata,Beauty,6009.09,1,2025-11-07,Credit Card,5,Website,6009.09
+CUST1398,Priya Desai,52,Female,Unknown,Books,6319.2,1,2025-07-24,Credit Card,2,App,6319.2
+CUST1588,Aditya Iyer,55,Male,Hyderabad,Home & Kitchen,24111.96,1,2025-03-10,Debit Card,4,App,24111.96
+CUST1318,Ananya Menon,45,Female,Kolkata,Toys,9675.41,1,2025-01-10,Credit Card,1,Referral,9675.41
+CUST1360,Ishaan Rao,53,Male,Unknown,Home & Kitchen,22788.02,2,2025-07-18,UPI,4,Referral,45576.04
+CUST1429,Yash Gupta,33,Female,Mumbai,Beauty,23281.59,1,2025-11-17,Credit Card,5,Unknown,23281.59
+CUST1487,Kavya Mehta,40,Female,Chennai,Electronics,8577.94,2,2025-11-17,UPI,4,App,17155.88
+CUST1416,Sara Rao,53,Female,Mumbai,Grocery,14832.15,2,2025-11-20,UPI,4,Unknown,29664.3
+CUST1156,Rahul Sharma,49,Male,Bangalore,Books,12151.18,1,2025-12-17,Net Banking,4,Website,12151.18
+CUST1273,Aman Reddy,23,Male,Bengaluru,Toys,1408.35,2,2025-08-10,UPI,4,Website,2816.7
+CUST1458,Vikram Bhat,53,Male,Hyderabad,Books,8439.21,2,2025-03-22,Credit Card,5,Referral,16878.42
+CUST1377,Tanya Pillai,56,Male,Delhi,Toys,4265.3,1,2025-09-21,Net Banking,4,App,4265.3
+CUST1366,Rahul Kulkarni,22,Female,Mumbai,Books,2590.33,3,2025-10-25,Credit Card,5,App,7770.99
+CUST1054,Pooja Malhotra,60,Male,Jaipur,Beauty,464.41,2,2025-08-09,UPI,5,Unknown,928.82
+CUST1538,Sanjay Kulkarni,26,Unknown,Delhi,Home & Kitchen,19141.06,2,2025-03-30,Debit Card,2,Referral,38282.12
+CUST1452,Neha Malhotra,41,Female,Pune,Beauty,14907.85,1,2025-06-06,Credit Card,4,App,14907.85
+CUST1493,Pooja Mehta,46,Male,Delhi,Grocery,6949.88,1,2025-11-15,Debit Card,4,App,6949.88
+CUST1178,Aman Rao,30,Male,Delhi,Toys,16259.89,3,2025-06-04,Credit Card,5,App,48779.67
+CUST1285,Arjun Gupta,33,Male,Delhi,Clothing,20568.3,3,2025-11-24,Credit Card,4,Website,61704.9
+CUST1135,Neha Menon,47,Male,Unknown,Toys,14978.97,1,2025-11-20,Cash On Delivery,3,Referral,14978.97
+CUST1451,Sanjay Patel,43,Female,Jaipur,Home & Kitchen,6171.53,1,2025-08-09,Debit Card,2,Unknown,6171.53
+CUST1311,Aarav Pillai,36,Female,Kolkata,Sports,18457.79,2,2025-12-29,Cash On Delivery,5,Unknown,36915.58
+CUST1104,Simran Iyer,38,Male,Bangalore,Books,9451.38,1,2025-12-18,Debit Card,2,Website,9451.38
+CUST1361,Aarav Chopra,61,Male,Bengaluru,Clothing,18935.62,2,2025-01-24,Debit Card,5,App,37871.24
+CUST1109,Simran Sharma,23,Female,Kolkata,Sports,11423.1,1,2025-07-09,Credit Card,2,Website,11423.1
+CUST1195,Sara Verma,53,Female,Jaipur,Grocery,9802.21,1,2025-04-15,Debit Card,4,Referral,9802.21
+CUST1492,Diya Desai,60,Male,Lucknow,Books,16025.44,1,2025-06-14,Cash On Delivery,5,Referral,16025.44
+CUST1271,Karan Bhat,53,Female,Mumbai,Toys,2682.4,1,2025-03-13,Credit Card,1,App,2682.4
+CUST1133,Dev Mehta,27,Male,Chennai,Toys,17447.39,1,2025-12-28,Cash On Delivery,1,Website,17447.39
+CUST1047,Aarav Joshi,37,Unknown,Unknown,Sports,13524.78,3,2025-10-07,Cash On Delivery,4,App,40574.34
+CUST1391,Neha Gupta,22,Female,Pune,Clothing,15284.37,3,2025-07-16,Net Banking,1,App,45853.11
+CUST1411,Ananya Nair,58,Female,Bangalore,Sports,21245.18,1,2025-10-02,Credit Card,4,Referral,21245.18
+CUST1108,Ishaan Rao,62,Male,Pune,Electronics,4657.93,1,2025-10-17,UPI,2,App,4657.93
+CUST1015,Neha Patel,52,Female,Chennai,Sports,24879.46,3,2025-07-11,Cash On Delivery,2,App,74638.38
+CUST1215,Aarav Kapoor,44,Unknown,Mumbai,Home & Kitchen,14363.22,1,2025-12-17,UPI,3,Referral,14363.22
+CUST1561,Nikhil Reddy,49,Unknown,Hyderabad,Electronics,7435.26,3,2025-05-10,Cash On Delivery,5,Website,22305.78
+CUST1062,Sneha Sharma,63,Female,Chennai,Electronics,24361.23,2,2025-05-30,UPI,4,Website,48722.46
+CUST1357,Sneha Sharma,51,Male,Delhi,Toys,12247.1,1,2025-11-30,Credit Card,4,Website,12247.1
+CUST1476,Kavya Pillai,47,Female,Mumbai,Electronics,6231.12,2,2025-05-23,Cash On Delivery,1,App,12462.24
+CUST1160,Aman Pillai,37,Male,Mumbai,Sports,12710.29,1,2025-04-21,Credit Card,1,Website,12710.29
+CUST1138,Priya Singh,64,Unknown,Lucknow,Beauty,3465.23,1,2025-10-07,UPI,4,Unknown,3465.23
+CUST1455,Kabir Kulkarni,51,Male,Ahmedabad,Grocery,17422.52,3,2025-01-10,Credit Card,5,App,52267.56
+CUST1074,Rohan Kulkarni,26,Female,Mumbai,Toys,3167.44,3,2025-08-11,UPI,5,App,9502.32
+CUST1510,Anjali Sharma,54,Unknown,Mumbai,Home & Kitchen,17846.43,1,2025-07-30,Credit Card,1,Website,17846.43
+CUST1176,Sanjay Singh,52,Female,Kolkata,Grocery,23357.98,1,2025-07-23,UPI,5,Website,23357.98
+CUST1304,Vivaan Joshi,63,Male,Pune,Toys,12702.39,3,2025-03-05,Credit Card,4,Referral,38107.17
+CUST1068,Pooja Singh,59,Male,Unknown,Grocery,1924.53,1,2025-06-07,Net Banking,4,Website,1924.53
+CUST1189,Simran Singh,18,Male,Ahmedabad,Sports,13368.55,1,2025-04-28,Cash On Delivery,5,App,13368.55
+CUST1112,Karan Menon,21,Female,Chennai,Home & Kitchen,19218.64,1,2025-05-11,Credit Card,2,Website,19218.64
+CUST1124,Kavya Chopra,36,Female,Unknown,Grocery,8434.05,2,2025-06-12,Credit Card,5,Unknown,16868.1
+CUST1269,Pooja Joshi,31,Male,Ahmedabad,Books,21334.18,1,2025-03-22,Net Banking,1,App,21334.18
+CUST1478,Diya Malhotra,29,Female,Chennai,Grocery,24162.39,3,2025-10-24,Credit Card,2,Referral,72487.17
+CUST1236,Diya Bose,25,Unknown,Jaipur,Beauty,13619.78,1,2025-01-22,Cash On Delivery,4,App,13619.78
+CUST1324,Rohan Pillai,62,Female,Mumbai,Electronics,7632.74,3,2025-02-21,Net Banking,3,Website,22898.22
+CUST1272,Ananya Patel,43,Female,Bangalore,Clothing,14620.75,1,2025-08-02,Debit Card,4,Unknown,14620.75
+CUST1103,Neha Iyer,62,Unknown,Bangalore,Home & Kitchen,10837.24,1,2025-07-31,Cash On Delivery,4,Website,10837.24
+CUST1233,Riya Kapoor,26,Male,Unknown,Toys,15542.34,1,2025-03-07,Cash On Delivery,3,App,15542.34
+CUST1371,Kabir Verma,53,Male,Jaipur,Toys,16399.62,1,2025-07-07,Cash On Delivery,5,App,16399.62
+CUST1513,Yash Sharma,48,Male,Ahmedabad,Beauty,10612.25,1,2025-05-31,UPI,1,Unknown,10612.25
+CUST1335,Aryan Menon,21,Female,Delhi,Toys,21319.0,1,2025-03-26,Cash On Delivery,5,App,21319.0
+CUST1439,Diya Iyer,64,Male,Kolkata,Home & Kitchen,4949.02,3,2025-05-08,UPI,4,Unknown,14847.06
+CUST1092,Kavya Rao,55,Unknown,Bangalore,Beauty,2842.4,1,2025-08-30,Credit Card,4,Unknown,2842.4
+CUST1117,Diya Desai,50,Unknown,Pune,Beauty,18225.37,1,2025-11-27,Cash On Delivery,2,App,18225.37
+CUST1316,Ritika Reddy,26,Male,Kolkata,Toys,3709.12,1,2025-03-04,Cash On Delivery,5,Unknown,3709.12
+CUST1107,Ritika Iyer,40,Male,Mumbai,Books,14416.39,1,2025-08-08,Credit Card,5,Website,14416.39
+CUST1207,Karan Kulkarni,48,Female,Bengaluru,Grocery,2204.75,1,2025-08-11,Credit Card,2,App,2204.75
+CUST1028,Pooja Reddy,35,Male,Hyderabad,Beauty,5209.39,3,2025-05-16,Cash On Delivery,5,Website,15628.17
+CUST1347,Simran Kulkarni,36,Unknown,Bengaluru,Clothing,778.01,1,2025-01-28,Credit Card,4,Referral,778.01
+CUST1137,Pooja Desai,50,Male,Kolkata,Toys,1231.83,2,2025-07-11,Credit Card,5,Website,2463.66
+CUST1044,Yash Singh,58,Unknown,Delhi,Toys,15724.7,1,2025-08-14,Net Banking,4,Referral,15724.7
+CUST1193,Rohan Verma,43,Female,Delhi,Sports,13962.89,1,2025-06-26,UPI,4,Referral,13962.89
+CUST1393,Vivaan Joshi,33,Female,Mumbai,Books,19524.87,1,2025-12-09,UPI,4,App,19524.87
+CUST1325,Dev Iyer,43,Male,Chennai,Clothing,19651.29,2,2025-04-12,Cash On Delivery,5,App,39302.58
+CUST1230,Rahul Mehta,56,Male,Kolkata,Clothing,8795.93,1,2025-08-23,UPI,5,App,8795.93
+CUST1551,Meera Bose,43,Male,Kolkata,Electronics,1145.46,2,2025-09-16,UPI,4,Website,2290.92
+CUST1292,Aarav Patel,28,Male,Ahmedabad,Clothing,7812.58,2,2025-08-30,Net Banking,2,Unknown,15625.16
+CUST1383,Kavya Malhotra,43,Male,Delhi,Toys,22554.96,2,2025-01-20,Debit Card,2,Website,45109.92
+CUST1225,Riya Iyer,36,Male,Mumbai,Grocery,8805.97,1,2025-08-22,Cash On Delivery,5,Website,8805.97
+CUST1473,Nikhil Chopra,64,Male,Delhi,Sports,13826.1,1,2025-03-29,UPI,3,App,13826.1
+CUST1122,Tanya Mehta,63,Male,Bangalore,Grocery,1122.68,3,2025-08-13,UPI,5,Referral,3368.04
+CUST1205,Sara Iyer,51,Female,Hyderabad,Books,20408.08,1,2025-07-23,Credit Card,4,Website,20408.08
+CUST1029,Aditya Malhotra,35,Male,Pune,Grocery,15982.27,1,2025-03-24,Cash On Delivery,4,Unknown,15982.27
+CUST1130,Vikram Malhotra,28,Unknown,Lucknow,Grocery,21844.1,1,2025-11-25,Credit Card,4,Website,21844.1
+CUST1252,Anjali Desai,30,Male,Bangalore,Electronics,19627.47,1,2025-05-03,UPI,2,App,19627.47
+CUST1519,Riya Kapoor,48,Female,Kolkata,Sports,11943.55,1,2025-09-29,Credit Card,5,Website,11943.55
+CUST1265,Aarav Chopra,65,Male,Hyderabad,Home & Kitchen,10582.42,1,2025-03-14,Net Banking,2,Website,10582.42
+CUST1041,Riya Menon,22,Female,Bangalore,Home & Kitchen,18000.9,2,2025-09-11,Cash On Delivery,3,Unknown,36001.8
+CUST1480,Neha Desai,31,Male,Bengaluru,Clothing,14348.47,3,2025-09-28,Cash On Delivery,5,Website,43045.41
+CUST1319,Yash Desai,30,Female,Bengaluru,Home & Kitchen,5772.7,1,2025-09-06,Debit Card,4,App,5772.7
+CUST1017,Aryan Verma,39,Male,Hyderabad,Books,16774.1,1,2025-04-10,Cash On Delivery,4,Website,16774.1
+CUST1009,Meera Kulkarni,52,Female,Lucknow,Sports,22460.9,2,2025-05-07,UPI,4,Website,44921.8
+CUST1331,Aryan Nair,25,Female,Mumbai,Electronics,24541.99,1,2025-03-23,UPI,4,App,24541.99
+CUST1294,Sanjay Verma,27,Male,Bangalore,Beauty,20233.28,2,2025-10-29,Credit Card,4,App,40466.56
+CUST1322,Ananya Patel,64,Male,Jaipur,Grocery,3210.58,3,2025-11-30,UPI,5,App,9631.74
+CUST1340,Priya Kapoor,53,Male,Mumbai,Clothing,1287.59,1,2025-10-09,UPI,2,Referral,1287.59
+CUST1171,Yash Kapoor,63,Female,Mumbai,Toys,8028.46,1,2025-10-14,Net Banking,5,Website,8028.46
+CUST1341,Anjali Patel,30,Unknown,Kolkata,Home & Kitchen,11507.59,1,2025-04-08,Credit Card,2,Website,11507.59
+CUST1334,Vikram Menon,24,Female,Mumbai,Home & Kitchen,12125.95,3,2025-12-13,UPI,3,App,36377.85
+CUST1489,Vikram Kapoor,29,Male,Delhi,Electronics,19478.09,1,2025-08-16,Credit Card,4,App,19478.09
+CUST1517,Tanya Desai,20,Male,Delhi,Grocery,20964.71,1,2025-07-31,Cash On Delivery,4,Unknown,20964.71
+CUST1186,Kavya Kapoor,64,Female,Chennai,Electronics,18683.24,2,2025-07-02,UPI,5,Unknown,37366.48
+CUST1080,Vikram Bose,39,Unknown,Unknown,Toys,2627.84,2,2025-01-08,UPI,4,Unknown,5255.68
+CUST1244,Aryan Verma,20,Female,Delhi,Toys,554.59,1,2025-03-22,Cash On Delivery,1,Website,554.59
+CUST1087,Sanjay Joshi,54,Female,Chennai,Electronics,24451.92,3,2025-07-22,Credit Card,1,App,73355.76
+CUST1050,Arjun Chopra,35,Male,Unknown,Clothing,11837.12,3,2025-04-10,Credit Card,4,Unknown,35511.36
+CUST1420,Ishaan Chopra,42,Male,Mumbai,Sports,15689.28,2,2025-11-10,Net Banking,5,Unknown,31378.56
+CUST1158,Ananya Joshi,50,Male,Pune,Home & Kitchen,11741.84,1,2025-08-19,UPI,2,Website,11741.84
+CUST1355,Kavya Mehta,39,Male,Hyderabad,Toys,24916.28,1,2025-11-29,Debit Card,5,Website,24916.28
+CUST1058,Aditya Singh,64,Female,Jaipur,Home & Kitchen,17311.64,3,2025-12-31,Cash On Delivery,1,Website,51934.92
+CUST1238,Tanya Bose,62,Unknown,Mumbai,Sports,4274.64,1,2025-04-16,Credit Card,5,App,4274.64
+CUST1502,Pooja Iyer,46,Male,Kolkata,Clothing,15016.74,3,2025-11-02,Credit Card,4,Unknown,45050.22
+CUST1356,Meera Menon,57,Male,Bangalore,Beauty,9627.11,1,2025-02-28,Net Banking,4,Unknown,9627.11
+CUST1527,Anjali Chopra,29,Male,Delhi,Sports,5576.9,3,2025-02-24,Net Banking,2,Website,16730.7
+CUST1056,Ritika Singh,23,Female,Hyderabad,Toys,14310.76,3,2025-07-14,Credit Card,4,Referral,42932.28
+CUST1553,Rahul Gupta,19,Female,Chennai,Grocery,17627.12,1,2025-10-20,Credit Card,4,Website,17627.12
+CUST1467,Ishaan Bhat,57,Female,Pune,Toys,22206.53,2,2025-07-27,UPI,5,Website,44413.06
+CUST1202,Vivaan Desai,20,Unknown,Bangalore,Electronics,19143.82,2,2025-03-12,Cash On Delivery,2,Unknown,38287.64
+CUST1245,Kabir Reddy,59,Female,Unknown,Books,2469.5,1,2025-09-05,Credit Card,3,Website,2469.5
+CUST1240,Sara Verma,35,Female,Unknown,Grocery,6354.48,3,2025-06-14,UPI,4,App,19063.44
+CUST1001,Rahul Iyer,19,Female,Hyderabad,Grocery,18451.31,3,2025-07-10,UPI,1,Website,55353.93
+CUST1524,Ritika Menon,26,Female,Delhi,Grocery,22415.64,3,2025-04-05,Net Banking,4,Unknown,67246.92
+CUST1127,Sneha Iyer,50,Unknown,Mumbai,Electronics,16598.94,1,2025-11-13,UPI,3,App,16598.94
+CUST1026,Pooja Patel,50,Female,Pune,Clothing,21999.87,1,2025-05-26,Cash On Delivery,4,Unknown,21999.87
+CUST1350,Neha Mehta,53,Male,Mumbai,Books,5196.72,1,2025-08-15,Credit Card,4,Unknown,5196.72
+CUST1175,Sara Nair,44,Female,Bangalore,Home & Kitchen,18934.39,1,2025-06-14,Credit Card,2,Unknown,18934.39
+CUST1387,Tanya Mehta,44,Male,Delhi,Sports,16341.66,1,2025-05-14,UPI,5,App,16341.66
+CUST1060,Aman Rao,37,Female,Mumbai,Home & Kitchen,7991.37,3,2025-10-02,UPI,4,App,23974.11
+CUST1534,Dev Bhat,19,Male,Bengaluru,Beauty,19726.3,1,2025-07-27,Cash On Delivery,4,Website,19726.3
+CUST1154,Pooja Rao,26,Male,Jaipur,Clothing,12638.94,1,2025-10-31,UPI,3,Unknown,12638.94
+CUST1289,Arjun Menon,57,Female,Bengaluru,Sports,23569.69,1,2025-11-07,UPI,1,Website,23569.69
+CUST1394,Aarav Gupta,23,Male,Mumbai,Beauty,8784.76,1,2025-05-22,Cash On Delivery,4,Website,8784.76
+CUST1162,Vivaan Chopra,43,Male,Hyderabad,Beauty,13897.59,1,2025-07-17,Cash On Delivery,4,Referral,13897.59
+CUST1491,Vivaan Bhat,42,Male,Bengaluru,Books,23318.58,3,2025-01-11,Credit Card,4,Website,69955.74
+CUST1566,Nikhil Verma,60,Male,Delhi,Beauty,11293.46,1,2025-10-01,Debit Card,1,Website,11293.46
+CUST1533,Aman Patel,26,Female,Bengaluru,Home & Kitchen,12307.43,1,2025-10-04,Net Banking,4,App,12307.43
+CUST1352,Neha Rao,53,Female,Delhi,Books,290.28,2,2025-12-30,Credit Card,3,Referral,580.56
+CUST1231,Sanjay Gupta,61,Male,Mumbai,Home & Kitchen,7738.69,1,2025-07-11,UPI,4,Website,7738.69
+CUST1115,Karan Sharma,38,Unknown,Lucknow,Toys,20825.84,1,2025-02-15,Debit Card,4,Website,20825.84
+CUST1297,Sara Gupta,23,Male,Kolkata,Beauty,21437.11,2,2025-08-23,UPI,2,Website,42874.22
+CUST1579,Vivaan Reddy,38,Female,Delhi,Beauty,4208.22,1,2025-07-04,Credit Card,1,Referral,4208.22
+CUST1507,Kabir Nair,48,Female,Jaipur,Sports,21106.69,1,2025-02-08,Net Banking,3,App,21106.69
+CUST1587,Kavya Joshi,19,Female,Unknown,Books,23727.47,1,2025-06-30,Cash On Delivery,4,App,23727.47
+CUST1330,Aditya Joshi,39,Male,Kolkata,Sports,24063.4,1,2025-07-17,Cash On Delivery,4,Unknown,24063.4
+CUST1248,Meera Chopra,23,Male,Pune,Beauty,22042.58,1,2025-07-15,UPI,2,App,22042.58
+CUST1466,Ishaan Patel,32,Female,Delhi,Electronics,23147.06,2,2025-04-24,Cash On Delivery,4,Website,46294.12
+CUST1055,Aryan Bhat,63,Female,Delhi,Books,15455.42,2,2025-09-05,UPI,5,Referral,30910.84
+CUST1468,Anjali Bose,56,Male,Bangalore,Electronics,13088.13,2,2025-08-22,Cash On Delivery,4,App,26176.26
+CUST1460,Arjun Chopra,60,Male,Mumbai,Sports,13089.84,3,2025-11-10,Cash On Delivery,4,App,39269.52
+CUST1386,Aryan Kulkarni,44,Female,Bengaluru,Electronics,14512.98,1,2025-09-24,UPI,4,Unknown,14512.98
+CUST1307,Ritika Sharma,48,Female,Delhi,Electronics,5710.69,2,2025-06-06,Net Banking,4,Website,11421.38
+CUST1211,Neha Singh,22,Male,Delhi,Sports,24227.68,1,2025-01-16,Net Banking,4,Website,24227.68
+CUST1025,Kavya Mehta,33,Female,Delhi,Books,11512.03,1,2025-07-02,Cash On Delivery,2,Website,11512.03
+CUST1385,Tanya Chopra,43,Unknown,Mumbai,Clothing,10723.41,1,2025-02-09,Debit Card,5,App,10723.41
+CUST1526,Yash Verma,42,Male,Bengaluru,Books,23896.8,1,2025-04-02,Debit Card,4,App,23896.8
+CUST1494,Priya Kulkarni,38,Female,Mumbai,Books,14415.96,1,2025-02-06,Credit Card,4,Website,14415.96
+CUST1019,Karan Mehta,24,Female,Hyderabad,Toys,3633.53,1,2025-05-23,Cash On Delivery,2,Website,3633.53
+CUST1388,Rohan Chopra,31,Male,Delhi,Toys,4591.18,2,2025-10-12,Net Banking,5,App,9182.36
+CUST1337,Ritika Pillai,46,Male,Ahmedabad,Electronics,2700.69,2,2025-01-19,Credit Card,2,App,5401.38
+CUST1088,Simran Pillai,36,Male,Delhi,Beauty,5592.26,1,2025-11-14,UPI,2,Unknown,5592.26
+CUST1594,Dev Malhotra,64,Male,Delhi,Books,18944.13,1,2025-11-26,Credit Card,4,Unknown,18944.13
+CUST1255,Neha Chopra,23,Male,Lucknow,Grocery,7045.07,1,2025-02-10,Cash On Delivery,3,App,7045.07
+CUST1598,Aryan Iyer,42,Male,Unknown,Sports,11147.52,1,2025-01-17,Net Banking,3,Website,11147.52
+CUST1346,Rahul Nair,50,Female,Bangalore,Beauty,17802.27,1,2025-06-30,Cash On Delivery,4,Unknown,17802.27
+CUST1417,Rahul Kulkarni,37,Female,Jaipur,Home & Kitchen,20146.99,2,2025-06-07,UPI,5,App,40293.98
+CUST1169,Yash Menon,48,Female,Delhi,Home & Kitchen,14088.04,3,2025-09-02,UPI,5,App,42264.12
+CUST1219,Arjun Kapoor,65,Male,Delhi,Home & Kitchen,8248.27,1,2025-07-21,Debit Card,4,App,8248.27
+CUST1052,Nikhil Rao,41,Male,Lucknow,Clothing,19478.13,1,2025-09-06,Credit Card,5,App,19478.13
+CUST1450,Rohan Gupta,43,Female,Delhi,Grocery,19086.52,2,2025-10-14,Cash On Delivery,4,Unknown,38173.04
+CUST1497,Aman Iyer,47,Female,Bangalore,Toys,11843.06,1,2025-03-15,Net Banking,5,Website,11843.06
+CUST1187,Aditya Kulkarni,21,Female,Bengaluru,Books,10310.34,1,2025-03-11,UPI,5,Website,10310.34
+CUST1565,Dev Reddy,28,Male,Bengaluru,Beauty,14426.95,2,2025-05-14,UPI,4,App,28853.9
+CUST1194,Nikhil Malhotra,44,Male,Kolkata,Grocery,18897.24,2,2025-04-05,Net Banking,3,Website,37794.48
+CUST1550,Ritika Patel,55,Unknown,Ahmedabad,Books,510.42,2,2025-07-05,Credit Card,4,App,1020.84
+CUST1031,Vivaan Kapoor,41,Male,Hyderabad,Home & Kitchen,16723.3,1,2025-10-14,UPI,4,App,16723.3
+CUST1067,Vivaan Singh,36,Female,Unknown,Toys,1918.82,1,2025-05-16,Cash On Delivery,4,Website,1918.82
+CUST1198,Pooja Mehta,36,Female,Jaipur,Beauty,7814.29,1,2025-09-20,Cash On Delivery,2,Unknown,7814.29
+CUST1320,Sanjay Kapoor,28,Unknown,Bengaluru,Books,23719.31,2,2025-09-24,Credit Card,4,Unknown,47438.62
+CUST1072,Nikhil Pillai,36,Unknown,Delhi,Electronics,11452.42,1,2025-05-10,Debit Card,4,App,11452.42
+CUST1379,Riya Pillai,43,Female,Bangalore,Sports,707.78,1,2025-03-07,UPI,3,Unknown,707.78
+CUST1456,Vivaan Kapoor,43,Male,Bengaluru,Toys,16420.73,1,2025-02-04,Net Banking,5,Website,16420.73
+CUST1573,Aryan Malhotra,64,Female,Unknown,Clothing,3719.44,1,2025-09-01,Credit Card,2,App,3719.44
+CUST1323,Anjali Verma,56,Female,Mumbai,Electronics,1348.64,1,2025-08-02,UPI,2,App,1348.64
+CUST1581,Tanya Kapoor,35,Male,Jaipur,Beauty,20609.37,1,2025-03-12,Net Banking,5,Website,20609.37
+CUST1486,Aman Malhotra,65,Unknown,Jaipur,Books,14188.82,3,2025-06-11,Credit Card,4,App,42566.46
+CUST1528,Aditya Gupta,54,Unknown,Ahmedabad,Electronics,22428.33,1,2025-12-01,Credit Card,1,Unknown,22428.33
+CUST1016,Meera Gupta,39,Male,Jaipur,Home & Kitchen,14772.74,1,2025-02-06,Credit Card,4,Website,14772.74
+CUST1267,Sanjay Bose,21,Female,Delhi,Home & Kitchen,7398.15,1,2025-06-11,Credit Card,5,Website,7398.15
+CUST1586,Sara Rao,20,Male,Bangalore,Electronics,18900.57,1,2025-03-05,Cash On Delivery,4,App,18900.57
+CUST1447,Priya Malhotra,44,Unknown,Delhi,Home & Kitchen,18729.81,1,2025-05-11,UPI,1,Referral,18729.81
+CUST1359,Pooja Malhotra,59,Female,Bangalore,Grocery,740.26,3,2025-06-19,Debit Card,2,Website,2220.78
+CUST1540,Aarav Pillai,23,Male,Delhi,Clothing,17712.52,2,2025-05-26,Cash On Delivery,3,App,35425.04
+CUST1201,Simran Pillai,47,Female,Delhi,Beauty,4356.25,3,2025-10-07,UPI,4,Unknown,13068.75
+CUST1136,Neha Sharma,57,Female,Lucknow,Sports,4804.75,3,2025-02-13,Credit Card,2,App,14414.25
+CUST1549,Meera Kapoor,56,Unknown,Delhi,Grocery,14516.32,2,2025-04-28,UPI,4,Website,29032.64
+CUST1332,Kavya Bhat,43,Female,Delhi,Beauty,15342.26,1,2025-12-17,UPI,4,Website,15342.26
+CUST1367,Kavya Singh,24,Male,Mumbai,Home & Kitchen,8046.98,2,2025-06-18,Net Banking,3,App,16093.96
+CUST1449,Sanjay Desai,23,Female,Chennai,Sports,3828.11,1,2025-02-12,Credit Card,4,Website,3828.11
+CUST1182,Sara Kapoor,43,Female,Hyderabad,Grocery,12032.82,2,2025-11-07,UPI,4,Website,24065.64
+CUST1228,Rahul Malhotra,43,Female,Lucknow,Home & Kitchen,11321.94,2,2025-07-19,Cash On Delivery,4,Referral,22643.88
+CUST1595,Anjali Chopra,49,Male,Delhi,Toys,2834.71,1,2025-09-08,Cash On Delivery,3,Website,2834.71
+CUST1105,Aditya Malhotra,24,Unknown,Delhi,Electronics,14723.66,2,2025-10-15,Debit Card,4,Referral,29447.32
+CUST1270,Dev Mehta,27,Female,Hyderabad,Beauty,9996.67,1,2025-12-13,Net Banking,3,Website,9996.67
+CUST1313,Aryan Kulkarni,29,Male,Ahmedabad,Grocery,18561.83,3,2025-10-14,Credit Card,2,App,55685.49
+CUST1242,Riya Mehta,55,Unknown,Delhi,Clothing,18313.66,2,2025-11-22,Credit Card,2,App,36627.32
+CUST1295,Neha Kulkarni,61,Male,Hyderabad,Toys,7576.47,2,2025-01-18,UPI,2,Website,15152.94
+CUST1204,Pooja Kulkarni,44,Male,Jaipur,Books,13463.09,1,2025-01-09,UPI,3,Website,13463.09
+CUST1569,Sneha Sharma,43,Unknown,Hyderabad,Toys,9031.23,1,2025-01-29,Cash On Delivery,4,App,9031.23
+CUST1084,Ananya Singh,51,Male,Bangalore,Grocery,4374.09,1,2025-11-09,Cash On Delivery,4,App,4374.09
+CUST1119,Sara Bose,43,Male,Unknown,Beauty,3901.29,1,2025-08-29,Net Banking,5,App,3901.29
+CUST1503,Kavya Verma,23,Unknown,Delhi,Electronics,18963.38,3,2025-03-18,Net Banking,4,App,56890.14
+CUST1167,Riya Rao,43,Male,Hyderabad,Electronics,14650.55,1,2025-09-26,UPI,3,Unknown,14650.55
+CUST1327,Aarav Gupta,43,Female,Ahmedabad,Grocery,23743.73,1,2025-09-19,Debit Card,5,Unknown,23743.73
+CUST1190,Rohan Patel,64,Male,Delhi,Sports,15430.84,1,2025-04-05,Debit Card,2,App,15430.84
+CUST1578,Neha Rao,58,Female,Unknown,Clothing,9424.08,3,2025-10-22,Net Banking,3,App,28272.24
+CUST1529,Karan Rao,27,Female,Lucknow,Electronics,12957.27,1,2025-09-09,UPI,4,Unknown,12957.27
+CUST1093,Aditya Bhat,62,Female,Kolkata,Clothing,3623.46,1,2025-06-05,Debit Card,2,App,3623.46
+CUST1262,Neha Mehta,35,Male,Pune,Clothing,12625.72,1,2025-02-04,Credit Card,4,Website,12625.72
+CUST1139,Riya Nair,26,Female,Delhi,Toys,1069.05,1,2025-01-23,Credit Card,5,Referral,1069.05
+CUST1277,Arjun Menon,32,Unknown,Delhi,Books,1605.99,2,2025-09-29,Cash On Delivery,3,Website,3211.98
+CUST1057,Ishaan Pillai,31,Unknown,Chennai,Beauty,7099.51,2,2025-12-26,Credit Card,4,App,14199.02
+CUST1544,Kavya Verma,21,Male,Hyderabad,Sports,6396.84,2,2025-08-21,Debit Card,1,App,12793.68
+CUST1089,Rahul Verma,37,Male,Lucknow,Beauty,18349.14,1,2025-06-01,UPI,3,App,18349.14
+CUST1426,Simran Iyer,51,Female,Kolkata,Books,23414.95,1,2025-11-19,Credit Card,4,App,23414.95
+CUST1363,Pooja Singh,26,Unknown,Delhi,Books,24009.34,1,2025-06-02,Credit Card,1,App,24009.34
+CUST1281,Kabir Reddy,39,Unknown,Unknown,Beauty,1629.97,1,2025-10-28,UPI,2,App,1629.97
+CUST1140,Vikram Chopra,52,Male,Bengaluru,Home & Kitchen,7259.86,1,2025-01-25,Credit Card,5,Website,7259.86
+CUST1523,Simran Kapoor,34,Male,Bengaluru,Clothing,1563.52,2,2025-03-12,Debit Card,2,Website,3127.04
+CUST1288,Aditya Verma,36,Male,Chennai,Clothing,1993.88,1,2025-12-07,Debit Card,4,Website,1993.88
+CUST1305,Riya Menon,46,Unknown,Ahmedabad,Beauty,8704.59,1,2025-05-13,Debit Card,5,Website,8704.59
+CUST1024,Aryan Bose,43,Male,Bengaluru,Clothing,10567.74,2,2025-10-17,Credit Card,5,App,21135.48
+CUST1165,Aryan Desai,26,Male,Pune,Grocery,9914.92,2,2025-06-03,Credit Card,4,App,19829.84
+CUST1599,Neha Reddy,37,Female,Delhi,Clothing,14286.05,2,2025-12-04,Cash On Delivery,4,App,28572.1
+CUST1580,Sneha Desai,58,Male,Hyderabad,Grocery,19152.53,2,2025-03-27,Credit Card,5,Unknown,38305.06
+CUST1129,Pooja Singh,37,Unknown,Hyderabad,Beauty,17005.92,2,2025-08-14,Net Banking,4,App,34011.84
+CUST1438,Simran Malhotra,41,Unknown,Lucknow,Books,13296.17,3,2025-02-06,Debit Card,4,App,39888.51
+CUST1241,Sanjay Rao,58,Female,Ahmedabad,Clothing,15895.65,1,2025-02-17,Net Banking,5,Website,15895.65
+CUST1530,Yash Gupta,52,Male,Kolkata,Toys,3161.91,2,2025-07-03,Net Banking,4,Website,6323.82
+CUST1435,Anjali Kapoor,38,Female,Pune,Clothing,2541.97,3,2025-04-02,UPI,3,Website,7625.91
+CUST1263,Aryan Bhat,36,Male,Mumbai,Toys,348.03,1,2025-05-30,Net Banking,4,Website,348.03
+CUST1099,Sanjay Mehta,19,Male,Bengaluru,Grocery,18581.69,2,2025-02-28,Debit Card,4,Website,37163.38
+CUST1443,Aarav Verma,43,Male,Jaipur,Grocery,24836.29,1,2025-01-04,Cash On Delivery,4,Referral,24836.29
+CUST1471,Aryan Kulkarni,26,Female,Pune,Toys,769.07,2,2025-10-30,Cash On Delivery,4,Website,1538.14
+CUST1558,Yash Bose,62,Unknown,Mumbai,Home & Kitchen,8113.53,1,2025-09-15,UPI,5,Website,8113.53
+CUST1464,Diya Reddy,29,Unknown,Lucknow,Books,15199.27,2,2025-04-29,Cash On Delivery,4,Unknown,30398.54
+CUST1203,Ananya Sharma,31,Female,Pune,Electronics,15503.21,3,2025-11-12,Cash On Delivery,1,Website,46509.63
+CUST1004,Priya Joshi,56,Unknown,Bengaluru,Toys,13475.27,2,2025-02-10,Net Banking,5,App,26950.54
+CUST1392,Rahul Pillai,46,Female,Unknown,Books,4989.45,1,2025-11-03,Cash On Delivery,3,Unknown,4989.45
+CUST1576,Tanya Sharma,27,Male,Bangalore,Toys,3235.8,3,2025-05-28,UPI,4,Unknown,9707.4
+CUST1147,Karan Kulkarni,25,Unknown,Chennai,Toys,5482.08,2,2025-05-27,Cash On Delivery,4,Website,10964.16
+CUST1329,Simran Iyer,24,Male,Unknown,Grocery,16634.37,1,2025-06-18,Cash On Delivery,5,Unknown,16634.37
+CUST1020,Tanya Kulkarni,24,Female,Jaipur,Electronics,24229.56,1,2025-02-05,UPI,4,Website,24229.56
+CUST1568,Yash Bose,60,Unknown,Lucknow,Toys,8566.31,1,2025-03-09,UPI,4,Website,8566.31
+CUST1261,Riya Joshi,42,Female,Unknown,Electronics,13888.69,3,2025-12-02,Cash On Delivery,5,App,41666.07
+CUST1299,Karan Pillai,43,Female,Bengaluru,Grocery,6994.04,1,2025-11-13,UPI,1,Website,6994.04
+CUST1469,Karan Verma,53,Male,Delhi,Electronics,4867.78,2,2025-07-23,Net Banking,4,App,9735.56
+CUST1400,Simran Singh,34,Female,Hyderabad,Home & Kitchen,20932.92,1,2025-03-21,Debit Card,2,Unknown,20932.92
+CUST1191,Vivaan Bhat,56,Female,Mumbai,Electronics,10146.29,1,2025-04-10,Credit Card,3,App,10146.29
+CUST1597,Kavya Desai,49,Female,Chennai,Toys,12332.72,1,2025-10-05,Credit Card,1,Website,12332.72
+CUST1197,Riya Patel,39,Male,Hyderabad,Home & Kitchen,24057.63,1,2025-03-09,Cash On Delivery,4,App,24057.63
+CUST1141,Tanya Joshi,45,Female,Ahmedabad,Sports,8575.06,1,2025-09-12,Cash On Delivery,5,App,8575.06
+CUST1083,Yash Iyer,46,Female,Chennai,Electronics,1292.88,1,2025-01-29,Credit Card,5,Website,1292.88
+CUST1403,Karan Nair,47,Female,Jaipur,Toys,7993.93,1,2025-01-07,Cash On Delivery,4,App,7993.93
+CUST1589,Ritika Pillai,43,Female,Ahmedabad,Clothing,4644.09,1,2025-07-14,Cash On Delivery,4,App,4644.09
+CUST1085,Ananya Singh,47,Female,Chennai,Electronics,22487.88,2,2025-05-28,UPI,2,Website,44975.76
+CUST1353,Anjali Verma,43,Unknown,Bangalore,Books,12340.19,2,2025-10-09,Debit Card,5,App,24680.38
+CUST1596,Diya Verma,22,Female,Bengaluru,Grocery,9658.43,3,2025-06-17,Net Banking,2,Website,28975.29
+CUST1180,Ananya Pillai,38,Male,Chennai,Sports,6002.7,1,2025-05-17,Net Banking,1,Referral,6002.7
+CUST1100,Yash Joshi,43,Male,Ahmedabad,Home & Kitchen,23643.58,1,2025-12-04,Net Banking,4,Unknown,23643.58
+CUST1362,Diya Kapoor,61,Male,Mumbai,Books,19167.06,2,2025-07-15,Credit Card,4,App,38334.12
+CUST1075,Aarav Kulkarni,44,Female,Unknown,Clothing,11616.98,1,2025-11-28,Cash On Delivery,5,App,11616.98
+CUST1008,Rohan Gupta,43,Female,Pune,Home & Kitchen,16437.65,2,2025-11-26,UPI,5,App,32875.3
+CUST1274,Karan Malhotra,29,Female,Delhi,Books,7104.39,1,2025-01-18,Cash On Delivery,5,Website,7104.39
+CUST1280,Sneha Nair,49,Male,Bengaluru,Home & Kitchen,15101.32,1,2025-09-27,Credit Card,5,App,15101.32
+CUST1155,Anjali Menon,43,Male,Unknown,Electronics,2168.39,3,2025-10-23,Cash On Delivery,4,App,6505.17
+CUST1405,Riya Malhotra,31,Female,Delhi,Beauty,9222.19,2,2025-05-24,UPI,3,App,18444.38
+CUST1192,Sneha Singh,43,Male,Lucknow,Beauty,6037.07,1,2025-12-05,Cash On Delivery,4,Referral,6037.07
+CUST1572,Sneha Joshi,40,Female,Unknown,Clothing,5510.02,2,2025-08-01,Net Banking,3,Unknown,11020.04
+CUST1401,Kavya Pillai,57,Unknown,Unknown,Electronics,21223.06,1,2025-11-14,Cash On Delivery,5,Website,21223.06
+CUST1463,Dev Reddy,64,Unknown,Pune,Sports,24035.73,1,2025-08-15,Net Banking,3,App,24035.73
+CUST1051,Aditya Verma,19,Female,Unknown,Electronics,15590.19,1,2025-03-06,Debit Card,4,Website,15590.19
+CUST1039,Dev Sharma,37,Female,Kolkata,Beauty,11704.96,2,2025-12-12,Cash On Delivery,3,Unknown,23409.92
+CUST1209,Aarav Patel,55,Unknown,Unknown,Sports,23232.54,1,2025-03-25,Cash On Delivery,4,Unknown,23232.54
+CUST1006,Dev Joshi,28,Male,Hyderabad,Books,17590.23,3,2025-11-28,UPI,4,Unknown,52770.69
+CUST1076,Nikhil Rao,44,Female,Hyderabad,Toys,13848.94,2,2025-04-08,UPI,2,Referral,27697.88
+CUST1249,Sanjay Sharma,57,Female,Pune,Home & Kitchen,15757.79,1,2025-07-30,Cash On Delivery,4,Website,15757.79
+CUST1048,Rohan Malhotra,49,Female,Pune,Sports,18145.91,1,2025-08-28,Credit Card,4,App,18145.91
+CUST1303,Aditya Kapoor,63,Female,Delhi,Electronics,4467.37,1,2025-04-13,Cash On Delivery,1,Website,4467.37
+CUST1071,Sanjay Malhotra,58,Male,Ahmedabad,Beauty,10297.45,1,2025-10-12,UPI,5,Website,10297.45
+CUST1226,Diya Bhat,64,Male,Mumbai,Books,1260.37,3,2025-02-28,Credit Card,2,Unknown,3781.11
+CUST1287,Riya Chopra,40,Female,Mumbai,Toys,19749.94,2,2025-11-30,Cash On Delivery,3,Website,39499.88
+CUST1012,Aarav Rao,50,Male,Mumbai,Books,21065.48,2,2025-08-11,UPI,5,App,42130.96
+CUST1402,Ishaan Desai,35,Female,Delhi,Grocery,1495.58,1,2025-08-05,Credit Card,4,Referral,1495.58
+CUST1151,Karan Pillai,51,Unknown,Kolkata,Clothing,3264.37,1,2025-11-25,Cash On Delivery,4,Unknown,3264.37
+CUST1419,Aarav Malhotra,43,Female,Delhi,Electronics,13773.07,1,2025-07-30,UPI,4,App,13773.07
+CUST1116,Sanjay Chopra,51,Female,Unknown,Books,18683.25,1,2025-06-20,Debit Card,4,Unknown,18683.25
+CUST1282,Ritika Joshi,22,Female,Bangalore,Sports,14712.51,1,2025-06-04,UPI,3,Unknown,14712.51
+CUST1254,Ishaan Pillai,22,Male,Mumbai,Electronics,6665.3,1,2025-01-31,Net Banking,4,Website,6665.3
+CUST1196,Aditya Kulkarni,64,Male,Chennai,Sports,16890.75,2,2025-01-21,Cash On Delivery,4,App,33781.5
+CUST1591,Riya Iyer,42,Female,Lucknow,Books,17223.11,1,2025-08-16,UPI,5,Website,17223.11
+CUST1066,Kabir Rao,60,Female,Hyderabad,Grocery,13867.01,1,2025-01-02,Cash On Delivery,4,Referral,13867.01
+CUST1410,Yash Kapoor,40,Female,Jaipur,Toys,19402.4,2,2025-02-10,Net Banking,4,Unknown,38804.8
+CUST1428,Ishaan Rao,55,Female,Delhi,Home & Kitchen,371.91,1,2025-10-25,Cash On Delivery,3,Referral,371.91
+CUST1220,Pooja Nair,61,Male,Mumbai,Toys,23582.93,1,2025-08-13,Debit Card,4,Unknown,23582.93
+CUST1370,Aryan Kulkarni,30,Female,Bangalore,Clothing,18226.52,1,2025-09-17,Credit Card,4,App,18226.52
+CUST1382,Ishaan Mehta,43,Male,Mumbai,Home & Kitchen,9548.55,1,2025-02-25,Cash On Delivery,4,App,9548.55
+CUST1070,Aditya Singh,43,Male,Bengaluru,Books,14469.74,1,2025-03-31,Cash On Delivery,5,App,14469.74
+CUST1094,Aryan Kulkarni,26,Female,Pune,Sports,14745.41,3,2025-03-21,Debit Card,4,App,44236.23
+CUST1069,Aman Kapoor,62,Male,Jaipur,Toys,11028.31,2,2025-01-21,Credit Card,5,Website,22056.62
+CUST1022,Nikhil Pillai,27,Male,Hyderabad,Electronics,14542.63,2,2025-02-01,Credit Card,1,Website,29085.26
+CUST1078,Pooja Pillai,40,Male,Delhi,Sports,11465.31,1,2025-04-07,Cash On Delivery,4,App,11465.31
+CUST1514,Sara Menon,65,Female,Delhi,Books,1676.23,2,2025-10-24,Credit Card,5,Unknown,3352.46
+CUST1459,Rahul Kapoor,33,Male,Delhi,Electronics,15700.94,2,2025-01-16,Net Banking,4,App,31401.88
+CUST1237,Neha Iyer,65,Male,Unknown,Electronics,11325.85,1,2025-02-14,Debit Card,4,App,11325.85
+CUST1446,Ishaan Pillai,43,Unknown,Mumbai,Books,1078.68,1,2025-10-23,Debit Card,1,Referral,1078.68
+CUST1315,Ritika Bose,43,Male,Ahmedabad,Home & Kitchen,12586.86,1,2025-12-15,Net Banking,4,Website,12586.86
+CUST1126,Priya Sharma,41,Female,Hyderabad,Beauty,23699.56,2,2025-09-04,UPI,3,Website,47399.12
+CUST1229,Yash Gupta,54,Unknown,Unknown,Grocery,9239.96,1,2025-08-23,Net Banking,4,App,9239.96
+CUST1440,Pooja Malhotra,65,Unknown,Bangalore,Beauty,16911.14,3,2025-12-07,Debit Card,3,App,50733.42
+CUST1043,Vikram Kulkarni,56,Unknown,Ahmedabad,Sports,20789.64,2,2025-08-17,Cash On Delivery,4,Referral,41579.28
+CUST1005,Kabir Gupta,20,Unknown,Chennai,Clothing,21404.65,1,2025-02-21,Net Banking,4,Unknown,21404.65
+CUST1378,Ishaan Nair,43,Female,Unknown,Clothing,16578.57,2,2025-06-19,Debit Card,4,Unknown,33157.14
+CUST1488,Anjali Iyer,37,Female,Bengaluru,Books,10434.66,2,2025-05-02,Cash On Delivery,5,App,20869.32
+CUST1065,Karan Bhat,46,Unknown,Lucknow,Sports,7738.7,2,2025-01-31,Debit Card,4,Unknown,15477.4
+CUST1040,Aditya Kapoor,43,Male,Mumbai,Home & Kitchen,16868.97,1,2025-12-04,Credit Card,1,App,16868.97
+CUST1110,Ananya Nair,57,Female,Mumbai,Books,11161.36,2,2025-09-06,Cash On Delivery,4,Referral,22322.72
+CUST1256,Arjun Chopra,55,Male,Mumbai,Sports,18289.47,1,2025-03-05,Cash On Delivery,2,Website,18289.47
+CUST1375,Vivaan Mehta,24,Female,Unknown,Books,20896.58,1,2025-10-24,UPI,4,Unknown,20896.58
+CUST1206,Sanjay Singh,62,Male,Bangalore,Clothing,16395.33,1,2025-11-29,Debit Card,4,Website,16395.33
+CUST1511,Sanjay Pillai,63,Male,Lucknow,Toys,24049.18,1,2025-03-14,Net Banking,4,App,24049.18
+CUST1148,Ananya Gupta,46,Female,Ahmedabad,Clothing,20291.25,1,2025-06-13,Credit Card,2,App,20291.25
+CUST1007,Meera Nair,47,Male,Bangalore,Home & Kitchen,17162.66,1,2025-01-29,Credit Card,5,Website,17162.66
+CUST1506,Ritika Sharma,33,Female,Lucknow,Sports,15686.58,3,2025-07-15,UPI,4,App,47059.74
+CUST1291,Pooja Pillai,27,Male,Bengaluru,Sports,2327.56,1,2025-12-05,Cash On Delivery,4,Website,2327.56
+CUST1412,Arjun Kapoor,63,Male,Bangalore,Sports,6890.52,2,2025-07-05,Cash On Delivery,4,App,13781.04
+CUST1444,Aarav Rao,53,Male,Lucknow,Grocery,2493.04,2,2025-02-07,UPI,5,Referral,4986.08
+CUST1408,Nikhil Nair,21,Unknown,Chennai,Toys,20998.45,1,2025-08-19,Credit Card,5,Referral,20998.45
+CUST1500,Neha Singh,57,Male,Delhi,Toys,9687.84,1,2025-04-17,UPI,4,App,9687.84
+CUST1260,Ishaan Rao,43,Female,Mumbai,Clothing,5825.85,2,2025-02-01,Credit Card,4,Website,11651.7
+CUST1283,Neha Pillai,59,Female,Mumbai,Beauty,5697.44,2,2025-03-31,Net Banking,5,App,11394.88
+CUST1123,Sara Kapoor,42,Unknown,Pune,Electronics,19762.29,3,2025-06-21,Credit Card,2,App,59286.87
+CUST1079,Ritika Malhotra,20,Female,Ahmedabad,Sports,9744.06,3,2025-11-30,Cash On Delivery,1,App,29232.18
+CUST1571,Anjali Menon,50,Female,Pune,Sports,3826.46,1,2025-08-07,UPI,5,Website,3826.46
+CUST1321,Ananya Mehta,49,Unknown,Hyderabad,Grocery,23709.9,1,2025-07-26,Cash On Delivery,4,Unknown,23709.9
+CUST1593,Karan Chopra,43,Male,Mumbai,Grocery,1758.05,1,2025-06-23,UPI,2,App,1758.05
+CUST1152,Vikram Joshi,26,Female,Lucknow,Grocery,19229.37,1,2025-08-10,Credit Card,2,App,19229.37
+CUST1376,Karan Joshi,55,Male,Chennai,Sports,24320.95,1,2025-09-22,Credit Card,5,Website,24320.95
+CUST1300,Aryan Mehta,62,Male,Mumbai,Toys,23032.75,1,2025-01-11,Net Banking,5,Referral,23032.75
+CUST1454,Sara Reddy,36,Male,Mumbai,Clothing,7732.18,2,2025-01-12,Cash On Delivery,4,App,15464.36
+CUST1164,Anjali Desai,43,Male,Bengaluru,Electronics,3555.35,1,2025-08-31,Cash On Delivery,3,App,3555.35
+CUST1522,Pooja Sharma,61,Unknown,Mumbai,Electronics,10369.53,2,2025-02-23,Cash On Delivery,5,App,20739.06
+CUST1397,Ritika Sharma,48,Male,Mumbai,Sports,15896.5,1,2025-12-13,Cash On Delivery,5,Website,15896.5
+CUST1326,Kabir Joshi,63,Male,Delhi,Electronics,13771.25,1,2025-12-19,Credit Card,4,Website,13771.25
+CUST1404,Diya Mehta,43,Unknown,Chennai,Grocery,13781.8,1,2025-05-18,Credit Card,5,App,13781.8
+CUST1266,Sara Singh,51,Female,Pune,Toys,24367.69,1,2025-10-25,UPI,4,Website,24367.69
+CUST1552,Riya Iyer,46,Female,Mumbai,Electronics,17375.02,2,2025-04-22,Credit Card,5,App,34750.04
+CUST1425,Aryan Rao,42,Male,Delhi,Home & Kitchen,9712.23,2,2025-05-07,Credit Card,4,Website,19424.46
+CUST1525,Sara Gupta,58,Male,Delhi,Sports,17351.7,3,2025-06-15,UPI,2,Referral,52055.1
+CUST1302,Rahul Gupta,30,Female,Unknown,Sports,18562.48,1,2025-09-22,Credit Card,4,App,18562.48
+CUST1279,Meera Bose,38,Male,Bengaluru,Beauty,23696.83,2,2025-03-14,Cash On Delivery,4,App,47393.66
+CUST1144,Tanya Verma,22,Male,Jaipur,Grocery,23826.82,1,2025-11-08,Cash On Delivery,1,App,23826.82
+CUST1470,Neha Kapoor,57,Female,Jaipur,Grocery,11669.94,3,2025-08-20,Debit Card,3,App,35009.82
+CUST1200,Sanjay Malhotra,36,Female,Pune,Home & Kitchen,9589.02,1,2025-05-06,Credit Card,5,Website,9589.02
+CUST1042,Nikhil Sharma,24,Female,Delhi,Toys,1397.93,1,2025-03-04,UPI,4,Unknown,1397.93
+CUST1457,Aarav Kapoor,59,Female,Kolkata,Clothing,22611.22,2,2025-11-02,Debit Card,3,App,45222.44
+CUST1574,Yash Chopra,23,Female,Bangalore,Books,10450.67,2,2025-08-25,UPI,4,App,20901.34
+CUST1518,Rahul Nair,43,Female,Unknown,Beauty,1500.0,1,2025-01-03,UPI,4,Website,1500.0
+CUST1365,Aryan Desai,27,Female,Hyderabad,Books,4979.01,1,2025-12-10,Credit Card,4,Website,4979.01
+CUST1232,Neha Menon,43,Female,Kolkata,Grocery,12243.75,2,2025-12-22,UPI,4,App,24487.5
+CUST1246,Karan Kapoor,64,Female,Bangalore,Clothing,17636.9,1,2025-04-20,Debit Card,3,App,17636.9
+CUST1434,Ritika Joshi,57,Male,Mumbai,Clothing,16508.49,2,2025-07-18,Cash On Delivery,4,App,33016.98
+CUST1314,Priya Singh,65,Female,Delhi,Beauty,9386.31,2,2025-05-31,Debit Card,4,Website,18772.62
+CUST1168,Meera Verma,54,Female,Bengaluru,Toys,7945.26,1,2025-07-31,Cash On Delivery,4,App,7945.26
+CUST1333,Diya Malhotra,46,Male,Chennai,Beauty,457.15,1,2025-12-14,Cash On Delivery,5,App,457.15
+CUST1159,Sneha Chopra,57,Female,Unknown,Grocery,20364.92,2,2025-10-06,UPI,4,App,40729.84
+CUST1495,Vivaan Reddy,19,Female,Bengaluru,Clothing,9682.45,1,2025-08-07,UPI,4,App,9682.45
+CUST1264,Priya Bose,49,Female,Jaipur,Home & Kitchen,3891.57,2,2025-01-13,Credit Card,1,Referral,7783.14
+CUST1427,Diya Rao,48,Female,Pune,Electronics,21611.89,1,2025-02-27,UPI,5,Website,21611.89
+CUST1030,Neha Kulkarni,18,Male,Mumbai,Grocery,13707.92,1,2025-07-09,UPI,4,App,13707.92
+CUST1239,Rohan Menon,52,Male,Mumbai,Books,7339.93,1,2025-09-21,Debit Card,3,Website,7339.93
+CUST1251,Aditya Singh,43,Male,Mumbai,Books,19507.4,3,2025-01-14,Net Banking,4,App,58522.2
+CUST1163,Dev Menon,43,Male,Delhi,Clothing,9938.51,1,2025-06-23,Credit Card,3,App,9938.51
+CUST1150,Tanya Pillai,19,Male,Lucknow,Beauty,11765.04,2,2025-03-08,Debit Card,2,Referral,23530.08
+CUST1227,Tanya Nair,65,Male,Delhi,Grocery,8375.09,2,2025-08-25,UPI,3,App,16750.18
+CUST1354,Meera Nair,51,Unknown,Jaipur,Grocery,10485.89,2,2025-07-26,Credit Card,4,App,20971.78
+CUST1554,Yash Reddy,63,Female,Delhi,Beauty,15726.25,3,2025-11-21,Debit Card,4,Unknown,47178.75
+CUST1095,Neha Rao,20,Female,Ahmedabad,Toys,23771.3,1,2025-05-07,Credit Card,4,Unknown,23771.3
+CUST1441,Pooja Chopra,50,Female,Delhi,Toys,23347.97,1,2025-10-09,Credit Card,4,Unknown,23347.97
+CUST1222,Karan Kulkarni,50,Male,Bengaluru,Beauty,17585.61,1,2025-10-02,Debit Card,2,App,17585.61
+CUST1086,Priya Bose,37,Female,Chennai,Toys,21155.8,1,2025-07-16,Debit Card,4,Website,21155.8
+CUST1389,Priya Chopra,65,Unknown,Unknown,Clothing,18733.18,2,2025-12-25,Debit Card,4,App,37466.36
+CUST1188,Aman Chopra,42,Female,Bangalore,Grocery,16390.32,1,2025-02-03,UPI,4,App,16390.32
+CUST1090,Ananya Kulkarni,41,Male,Chennai,Grocery,6535.71,1,2025-09-04,Credit Card,2,Website,6535.71
+CUST1035,Aarav Iyer,34,Male,Chennai,Electronics,2843.8,2,2025-06-26,Credit Card,4,App,5687.6
+CUST1218,Arjun Malhotra,43,Female,Chennai,Beauty,15139.8,3,2025-04-13,Credit Card,3,Website,45419.4
+CUST1073,Dev Sharma,60,Female,Kolkata,Electronics,4811.43,1,2025-11-15,Cash On Delivery,1,App,4811.43
+CUST1306,Karan Verma,43,Unknown,Hyderabad,Home & Kitchen,16237.39,3,2025-04-16,UPI,4,Website,48712.17
+CUST1221,Riya Reddy,58,Female,Chennai,Grocery,17923.62,1,2025-07-13,Cash On Delivery,4,App,17923.62
+CUST1543,Meera Bhat,58,Male,Bengaluru,Home & Kitchen,2950.08,1,2025-12-17,Cash On Delivery,3,App,2950.08
+CUST1555,Arjun Desai,20,Female,Delhi,Books,17496.67,2,2025-10-05,Cash On Delivery,2,App,34993.34
+CUST1396,Aryan Kulkarni,54,Female,Ahmedabad,Sports,14144.74,1,2025-05-05,Cash On Delivery,4,App,14144.74
+CUST1395,Sanjay Sharma,34,Female,Jaipur,Clothing,14031.97,2,2025-05-31,Debit Card,4,Referral,28063.94
+CUST1111,Kabir Desai,25,Female,Mumbai,Books,17003.71,2,2025-09-07,Net Banking,1,App,34007.42
+CUST1368,Sanjay Joshi,38,Female,Bengaluru,Beauty,6267.45,1,2025-12-31,UPI,5,Referral,6267.45
+CUST1413,Ishaan Sharma,26,Female,Chennai,Clothing,5382.7,2,2025-02-22,Debit Card,4,App,10765.4
+CUST1013,Pooja Desai,43,Male,Ahmedabad,Electronics,2929.91,1,2025-07-06,Credit Card,4,App,2929.91
+CUST1545,Ishaan Nair,19,Male,Mumbai,Clothing,22392.72,3,2025-08-16,Credit Card,4,App,67178.16
+CUST1344,Neha Menon,62,Male,Kolkata,Beauty,24266.72,2,2025-10-03,UPI,4,Referral,48533.44
+CUST1199,Riya Mehta,31,Male,Kolkata,Electronics,14128.74,1,2025-03-16,Net Banking,4,App,14128.74
+CUST1214,Diya Reddy,23,Female,Ahmedabad,Sports,2716.83,1,2025-07-01,Debit Card,5,Website,2716.83
+CUST1600,Ritika Nair,50,Female,Chennai,Toys,14837.47,2,2025-11-12,Credit Card,5,Referral,29674.94
+CUST1235,Sanjay Sharma,32,Male,Chennai,Home & Kitchen,13509.57,1,2025-08-23,Cash On Delivery,4,App,13509.57
+CUST1592,Kabir Gupta,48,Female,Bengaluru,Toys,16851.57,2,2025-08-13,Debit Card,2,App,33703.14
+CUST1421,Simran Kulkarni,35,Female,Unknown,Clothing,4682.82,1,2025-02-26,Cash On Delivery,4,Referral,4682.82
+CUST1432,Ishaan Kulkarni,40,Female,Ahmedabad,Books,21711.4,2,2025-11-10,Debit Card,4,App,43422.8
+CUST1535,Kavya Kulkarni,43,Female,Mumbai,Electronics,18426.17,2,2025-01-12,Cash On Delivery,1,App,36852.34
+CUST1217,Simran Pillai,43,Female,Ahmedabad,Clothing,3516.91,1,2025-07-22,UPI,5,Website,3516.91
+CUST1097,Meera Reddy,54,Male,Unknown,Home & Kitchen,14721.62,1,2025-04-30,UPI,1,Referral,14721.62
+CUST1462,Nikhil Desai,26,Unknown,Delhi,Grocery,8039.78,2,2025-09-30,Debit Card,3,Referral,16079.56
+CUST1575,Dev Chopra,36,Female,Bengaluru,Books,20889.44,1,2025-09-10,Cash On Delivery,4,Website,20889.44
+CUST1298,Ananya Reddy,43,Male,Delhi,Clothing,23134.46,2,2025-02-21,Credit Card,4,Referral,46268.92
+CUST1064,Riya Gupta,54,Female,Delhi,Books,2266.75,1,2025-03-02,UPI,4,App,2266.75
+CUST1223,Kavya Joshi,43,Male,Lucknow,Sports,24175.26,1,2025-09-08,Credit Card,2,Referral,24175.26
+CUST1453,Ananya Bhat,20,Female,Bangalore,Beauty,4026.38,3,2025-02-13,Credit Card,4,App,12079.14
+CUST1096,Priya Verma,43,Female,Mumbai,Toys,2428.08,1,2025-11-25,Credit Card,1,Referral,2428.08
+CUST1014,Aditya Gupta,64,Unknown,Mumbai,Grocery,3340.53,2,2025-09-10,Net Banking,4,App,6681.06
+CUST1328,Meera Bhat,36,Female,Bengaluru,Clothing,20357.48,1,2025-01-21,Credit Card,5,Website,20357.48
+CUST1436,Kabir Iyer,49,Male,Bengaluru,Sports,16499.34,2,2025-11-16,Net Banking,1,Referral,32998.68
+CUST1018,Tanya Malhotra,30,Male,Bangalore,Sports,8954.29,2,2025-08-28,Credit Card,2,Website,17908.58
+CUST1542,Dev Kapoor,40,Male,Jaipur,Home & Kitchen,4918.79,2,2025-02-18,Credit Card,4,App,9837.58
+CUST1531,Rahul Gupta,41,Unknown,Pune,Clothing,21053.36,1,2025-05-29,Cash On Delivery,3,App,21053.36
+CUST1247,Meera Desai,61,Male,Bengaluru,Beauty,20455.16,1,2025-08-05,UPI,4,Website,20455.16
+CUST1564,Riya Joshi,36,Female,Pune,Books,11479.77,1,2025-11-13,Net Banking,3,App,11479.77
+CUST1349,Diya Menon,61,Unknown,Hyderabad,Sports,6054.25,1,2025-12-23,Credit Card,4,Website,6054.25
+CUST1208,Sara Verma,32,Unknown,Mumbai,Toys,6886.71,1,2025-12-17,Credit Card,3,Referral,6886.71
+CUST1091,Aditya Reddy,32,Unknown,Delhi,Beauty,2394.03,2,2025-01-08,Debit Card,4,Referral,4788.06
+CUST1308,Ritika Joshi,47,Female,Ahmedabad,Books,16978.32,1,2025-11-16,Debit Card,1,App,16978.32
+CUST1342,Vivaan Bose,25,Female,Bangalore,Grocery,24101.79,1,2025-09-29,Credit Card,4,Website,24101.79
+CUST1381,Kabir Bhat,56,Unknown,Ahmedabad,Grocery,5601.19,2,2025-04-11,UPI,4,Referral,11202.38
+CUST1418,Sneha Sharma,18,Unknown,Delhi,Grocery,8695.54,2,2025-01-10,Cash On Delivery,4,Referral,17391.08
+CUST1345,Dev Kulkarni,38,Female,Hyderabad,Home & Kitchen,5361.36,3,2025-05-29,Credit Card,3,Unknown,16084.08
+CUST1472,Rohan Mehta,62,Female,Mumbai,Clothing,2416.1,3,2025-08-19,Credit Card,2,App,7248.3
+CUST1516,Aarav Iyer,56,Male,Mumbai,Grocery,16530.02,1,2025-03-31,Cash On Delivery,4,App,16530.02
+CUST1033,Tanya Iyer,42,Unknown,Ahmedabad,Home & Kitchen,5109.38,2,2025-06-29,Cash On Delivery,4,Website,10218.76
+CUST1173,Riya Patel,30,Male,Jaipur,Books,3561.23,2,2025-10-28,Cash On Delivery,1,Unknown,7122.46
+CUST1547,Sanjay Pillai,21,Female,Hyderabad,Toys,4574.81,1,2025-03-11,Cash On Delivery,5,Referral,4574.81
+CUST1548,Kabir Mehta,26,Female,Lucknow,Electronics,7123.01,1,2025-08-27,UPI,3,Referral,7123.01
+CUST1409,Priya Kulkarni,53,Male,Bengaluru,Sports,3162.75,1,2025-12-14,Cash On Delivery,4,App,3162.75
+CUST1536,Nikhil Reddy,18,Female,Bengaluru,Books,20545.37,1,2025-08-22,UPI,2,Website,20545.37
+CUST1583,Sara Gupta,25,Male,Ahmedabad,Beauty,7892.6,1,2025-03-13,Credit Card,3,Unknown,7892.6
+CUST1293,Pooja Chopra,29,Female,Pune,Grocery,11227.52,1,2025-08-14,Net Banking,4,Referral,11227.52
+CUST1559,Aditya Joshi,40,Female,Jaipur,Clothing,11833.57,2,2025-12-14,Net Banking,4,App,23667.14
+CUST1590,Neha Iyer,38,Female,Mumbai,Grocery,12471.03,1,2025-12-27,Credit Card,2,Referral,12471.03
+CUST1570,Tanya Rao,30,Male,Jaipur,Toys,16975.03,1,2025-09-20,Cash On Delivery,4,Referral,16975.03
+CUST1290,Arjun Patel,30,Female,Jaipur,Books,16565.86,1,2025-02-05,Credit Card,4,App,16565.86
+CUST1490,Ananya Patel,39,Female,Unknown,Books,19422.0,1,2025-02-20,UPI,4,Unknown,19422.0
+CUST1563,Rahul Mehta,43,Female,Mumbai,Toys,11531.48,2,2025-03-09,UPI,5,App,23062.96
+CUST1134,Aarav Rao,31,Male,Mumbai,Sports,2912.99,1,2025-05-02,Debit Card,1,App,2912.99
+CUST1061,Simran Pillai,43,Unknown,Jaipur,Books,24515.69,1,2025-04-10,Cash On Delivery,5,App,24515.69
+CUST1027,Sneha Menon,59,Male,Bangalore,Books,23304.14,1,2025-03-10,Debit Card,2,Unknown,23304.14
+CUST1101,Aarav Verma,48,Female,Bangalore,Clothing,12333.18,2,2025-07-02,Credit Card,3,Website,24666.36
+CUST1532,Vivaan Chopra,60,Male,Mumbai,Sports,22427.05,3,2025-12-19,Cash On Delivery,2,Unknown,67281.15
+CUST1521,Rohan Iyer,43,Female,Ahmedabad,Home & Kitchen,18397.69,2,2025-04-10,Credit Card,3,Referral,36795.38
+CUST1364,Ritika Kulkarni,27,Male,Bengaluru,Sports,13498.23,1,2025-06-06,Credit Card,4,Website,13498.23
+CUST1310,Rohan Kapoor,30,Male,Delhi,Home & Kitchen,22507.22,1,2025-11-04,Credit Card,3,Unknown,22507.22
+CUST1253,Riya Menon,22,Male,Pune,Beauty,3429.77,1,2025-10-19,Credit Card,4,Unknown,3429.77
+CUST1482,Aryan Menon,32,Female,Bengaluru,Clothing,746.07,3,2025-03-02,Cash On Delivery,4,Website,2238.21
+CUST1442,Neha Mehta,56,Male,Jaipur,Home & Kitchen,9470.32,2,2025-05-11,Cash On Delivery,4,Website,18940.64
+CUST1477,Ananya Verma,59,Male,Delhi,Electronics,16724.86,1,2025-11-05,Credit Card,2,Website,16724.86
+CUST1023,Sanjay Pillai,50,Female,Bengaluru,Clothing,21305.86,1,2025-01-11,Cash On Delivery,4,Website,21305.86
+CUST1063,Ritika Sharma,54,Female,Ahmedabad,Toys,8616.54,1,2025-05-10,Debit Card,2,Website,8616.54
+CUST1149,Pooja Kapoor,37,Female,Mumbai,Grocery,19873.36,2,2025-04-25,Cash On Delivery,3,App,39746.72
+CUST1484,Sneha Desai,53,Unknown,Bengaluru,Clothing,17193.02,1,2025-07-22,Credit Card,3,App,17193.02
+CUST1258,Priya Desai,51,Female,Pune,Grocery,18781.94,1,2025-05-18,Debit Card,1,Referral,18781.94
+CUST1053,Kavya Chopra,43,Male,Lucknow,Home & Kitchen,2682.25,1,2025-06-04,Debit Card,1,Referral,2682.25
+CUST1243,Karan Patel,45,Female,Chennai,Beauty,20734.34,1,2025-10-08,UPI,4,Referral,20734.34
+CUST1174,Aryan Desai,32,Male,Mumbai,Sports,8357.8,2,2025-02-21,UPI,1,App,16715.6
+CUST1036,Vikram Iyer,43,Female,Chennai,Electronics,17763.31,1,2025-09-24,Cash On Delivery,5,Website,17763.31
+CUST1179,Kavya Patel,43,Unknown,Bangalore,Sports,20700.7,2,2025-06-17,UPI,2,App,41401.4
+CUST1121,Aman Bose,53,Female,Delhi,Home & Kitchen,8139.94,2,2025-09-14,Credit Card,4,Website,16279.88
+CUST1276,Karan Joshi,48,Unknown,Ahmedabad,Beauty,22830.02,2,2025-06-14,Net Banking,3,Website,45660.04
+CUST1045,Arjun Mehta,52,Female,Delhi,Home & Kitchen,9668.43,1,2025-12-28,Debit Card,4,Website,9668.43
+CUST1301,Dev Pillai,62,Unknown,Hyderabad,Grocery,7616.94,3,2025-08-15,Net Banking,4,App,22850.82
+CUST1077,Yash Malhotra,39,Male,Unknown,Electronics,7178.55,1,2025-10-28,Cash On Delivery,3,Website,7178.55
+CUST1369,Ananya Mehta,48,Female,Pune,Books,12251.24,1,2025-03-31,Debit Card,5,App,12251.24
+CUST1213,Ananya Chopra,63,Female,Kolkata,Beauty,9113.4,1,2025-01-03,Cash On Delivery,5,Referral,9113.4
+CUST1268,Rohan Singh,22,Female,Delhi,Clothing,4011.95,1,2025-08-19,Credit Card,4,Website,4011.95
+CUST1312,Nikhil Singh,61,Female,Delhi,Toys,22677.18,3,2025-07-03,Net Banking,3,Unknown,68031.54
+CUST1445,Aryan Bose,33,Male,Delhi,Books,2433.84,2,2025-10-19,Debit Card,5,Website,4867.68
+CUST1504,Sanjay Bhat,30,Female,Pune,Books,14321.37,3,2025-06-05,Credit Card,2,App,42964.11
+CUST1496,Priya Kapoor,39,Female,Delhi,Clothing,24345.99,1,2025-08-27,UPI,2,Unknown,24345.99
+CUST1034,Kavya Patel,43,Male,Unknown,Clothing,24177.19,1,2025-06-29,UPI,4,Referral,24177.19
+CUST1010,Aditya Verma,25,Female,Delhi,Sports,14970.76,2,2025-07-15,Cash On Delivery,4,Referral,29941.52
+CUST1161,Sneha Pillai,56,Male,Jaipur,Electronics,21202.23,2,2025-03-10,Credit Card,4,Referral,42404.46
+CUST1286,Rohan Patel,33,Male,Chennai,Clothing,18052.28,1,2025-07-17,UPI,3,Website,18052.28
+CUST1296,Ishaan Nair,31,Female,Bengaluru,Sports,2097.46,3,2025-11-08,UPI,5,Referral,6292.38
+CUST1278,Meera Singh,35,Unknown,Delhi,Electronics,19136.64,1,2025-10-22,Credit Card,3,App,19136.64
+CUST1584,Sneha Sharma,65,Female,Delhi,Grocery,17247.97,1,2025-06-03,UPI,2,Website,17247.97
+CUST1485,Arjun Mehta,61,Female,Delhi,Electronics,16194.46,2,2025-03-21,Cash On Delivery,4,Referral,32388.92
+CUST1183,Yash Kulkarni,60,Unknown,Hyderabad,Clothing,13208.84,2,2025-12-27,Debit Card,2,Website,26417.68
+CUST1037,Aditya Mehta,57,Female,Unknown,Clothing,18035.89,1,2025-09-17,UPI,5,Website,18035.89
+CUST1157,Nikhil Verma,28,Female,Ahmedabad,Toys,5219.97,2,2025-03-15,Credit Card,5,Website,10439.94
+CUST1003,Rohan Sharma,28,Male,Chennai,Grocery,5500.55,1,2025-06-22,Debit Card,4,Website,5500.55
+CUST1509,Anjali Malhotra,57,Female,Jaipur,Sports,13868.44,2,2025-07-16,Cash On Delivery,3,Website,27736.88
+CUST1498,Ishaan Mehta,38,Female,Bengaluru,Clothing,11962.06,1,2025-09-03,UPI,5,Referral,11962.06
+CUST1309,Kavya Joshi,43,Male,Chennai,Books,17157.67,2,2025-02-02,Net Banking,5,Referral,34315.34
+CUST1415,Meera Kapoor,46,Female,Jaipur,Grocery,860.0,3,2025-07-02,Cash On Delivery,4,App,2580.0
+CUST1422,Nikhil Menon,49,Male,Bengaluru,Grocery,1383.36,2,2025-12-01,Debit Card,5,Referral,2766.72
+CUST1142,Rohan Gupta,64,Male,Kolkata,Grocery,13705.04,1,2025-02-22,Credit Card,5,Referral,13705.04
+CUST1224,Meera Desai,65,Male,Lucknow,Home & Kitchen,11227.6,2,2025-08-26,UPI,5,Website,22455.2
+CUST1184,Dev Kulkarni,50,Male,Jaipur,Grocery,4238.75,1,2025-09-24,Debit Card,4,Unknown,4238.75
+CUST1512,Aditya Desai,57,Female,Ahmedabad,Clothing,17149.24,2,2025-10-24,Credit Card,5,App,34298.48
+CUST1118,Rohan Patel,43,Female,Delhi,Clothing,4552.08,1,2025-11-18,Cash On Delivery,4,Unknown,4552.08
+CUST1002,Aditya Patel,32,Male,Bengaluru,Home & Kitchen,17943.09,3,2025-10-07,Cash On Delivery,4,App,53829.27
+CUST1114,Vivaan Malhotra,19,Male,Unknown,Beauty,14457.62,2,2025-07-27,UPI,5,Website,28915.24
+CUST1166,Pooja Pillai,43,Male,Ahmedabad,Electronics,9303.69,3,2025-02-26,Net Banking,1,App,27911.07
+CUST1185,Sanjay Pillai,23,Female,Delhi,Electronics,11417.79,2,2025-08-01,Credit Card,4,Website,22835.58
+CUST1373,Aman Nair,43,Male,Bangalore,Grocery,18437.61,2,2025-03-07,Cash On Delivery,4,App,36875.22
+CUST1275,Neha Kulkarni,48,Male,Chennai,Sports,3560.32,1,2025-11-26,Cash On Delivery,4,Website,3560.32
+CUST1567,Sara Pillai,27,Male,Delhi,Electronics,24258.23,2,2025-09-17,Net Banking,4,Referral,48516.46
+CUST1541,Ananya Rao,51,Female,Hyderabad,Grocery,15321.87,1,2025-02-11,Cash On Delivery,2,Unknown,15321.87
+CUST1501,Tanya Mehta,52,Female,Bangalore,Clothing,18523.27,3,2025-10-21,Debit Card,4,Referral,55569.81
+CUST1384,Kavya Reddy,56,Unknown,Bengaluru,Sports,13122.8,1,2025-01-23,UPI,4,Website,13122.8
+CUST1406,Kavya Singh,24,Unknown,Hyderabad,Sports,21429.27,1,2025-03-16,UPI,4,Website,21429.27
+CUST1562,Aman Sharma,36,Male,Bengaluru,Home & Kitchen,20898.45,2,2025-11-27,UPI,5,Unknown,41796.9
+CUST1021,Kabir Chopra,21,Female,Bengaluru,Sports,6740.3,1,2025-08-21,UPI,4,Unknown,6740.3
+CUST1177,Aarav Kapoor,43,Male,Pune,Books,11440.57,3,2025-10-06,Cash On Delivery,3,App,34321.71
+CUST1336,Arjun Rao,21,Female,Jaipur,Sports,10171.43,1,2025-02-10,Cash On Delivery,4,Website,10171.43
+CUST1380,Vikram Verma,54,Male,Delhi,Books,23072.8,2,2025-07-27,Credit Card,5,Website,46145.6
+CUST1546,Simran Mehta,32,Male,Hyderabad,Clothing,6042.39,2,2025-04-13,Cash On Delivery,2,Website,12084.78
+CUST1172,Sanjay Kulkarni,42,Unknown,Pune,Grocery,7367.75,1,2025-02-10,Cash On Delivery,5,Unknown,7367.75
+CUST1520,Karan Mehta,51,Male,Jaipur,Beauty,23911.16,2,2025-11-09,Net Banking,5,Referral,47822.32
+CUST1508,Aarav Gupta,59,Female,Mumbai,Toys,16499.48,1,2025-02-13,UPI,4,Unknown,16499.48
+CUST1153,Ananya Kapoor,28,Male,Mumbai,Home & Kitchen,8748.67,2,2025-05-26,Net Banking,4,Unknown,17497.34
+CUST1414,Vivaan Sharma,43,Unknown,Mumbai,Clothing,6671.94,1,2025-02-13,UPI,5,App,6671.94
+CUST1582,Neha Mehta,28,Female,Delhi,Home & Kitchen,20814.6,1,2025-10-14,Debit Card,4,Website,20814.6
+CUST1317,Ishaan Mehta,58,Male,Ahmedabad,Books,5353.15,1,2025-03-28,UPI,4,Website,5353.15
+CUST1259,Tanya Malhotra,35,Male,Chennai,Clothing,12479.27,2,2025-04-07,Cash On Delivery,3,Referral,24958.54
+CUST1475,Yash Rao,18,Female,Unknown,Toys,13656.0,1,2025-11-08,Cash On Delivery,4,App,13656.0
+CUST1338,Anjali Kapoor,50,Female,Bangalore,Toys,23766.32,1,2025-01-28,Cash On Delivery,5,App,23766.32
+CUST1539,Ananya Malhotra,28,Male,Delhi,Toys,6204.57,2,2025-01-21,Debit Card,4,App,12409.14
+CUST1505,Aarav Menon,50,Unknown,Delhi,Books,1700.9,2,2025-01-28,Credit Card,2,Referral,3401.8
+CUST1399,Sara Nair,48,Male,Hyderabad,Books,4692.19,3,2025-12-16,Cash On Delivery,4,App,14076.57
+CUST1424,Aman Verma,39,Unknown,Delhi,Grocery,1542.55,1,2025-07-20,Cash On Delivery,3,App,1542.55
+CUST1481,Anjali Mehta,34,Male,Lucknow,Beauty,23188.57,2,2025-10-16,Cash On Delivery,4,App,46377.14
+CUST1423,Ananya Bhat,64,Female,Mumbai,Grocery,515.91,1,2025-06-25,Net Banking,4,Referral,515.91
+CUST1120,Vivaan Joshi,50,Male,Ahmedabad,Toys,1084.54,1,2025-05-27,Debit Card,4,Website,1084.54
+CUST1257,Diya Bhat,43,Male,Chennai,Grocery,3118.16,3,2025-03-12,Credit Card,3,Website,9354.48
+CUST1250,Aryan Iyer,26,Male,Mumbai,Sports,8885.66,2,2025-11-06,Cash On Delivery,5,Unknown,17771.32
